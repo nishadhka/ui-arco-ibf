@@ -4,3 +4,4 @@
     HVplot gridded data visulzation-https://hvplot.holoviz.org/user_guide/Gridded_Data.html
 2. The lazy loading is from Kerchunk data format loaded into zarr, described in utils.py
     https://fsspec.github.io/kerchunk/
+3. This app has to be shown as a iframe element inside solara app-> page-> card
